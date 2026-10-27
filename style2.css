@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(to right, #11245b, #2c95e1);
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+    color: #041742;
+}
+#instructions {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+#nameLabel {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+#typeName {
+    text-align: center;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+#startQuiz {
+    display: block;
+    margin: 100px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #041742;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#by {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+
+#timer {
+    height: 80px;
+    width:80px;
+    background-color: #f5f5f6;
+    color: #000000;
+    text-align: center;
+    align-content: center;
+    margin-top: 10px;
+    margin: 20px auto;
+    margin-top: 20px;
+    font-size: 50px;
+    border-radius: 50%;
+    z-index: 1;
+    position: absolute;
+    top: -20px;
+    right: 0;
+    left: 0;
+}
+div.card {
+    background-color: #050552;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+    height: 250px;
+    width: 700px;
+    margin: 20px auto;
+    
+}
+button.hint {
+    background-color: #f6f931;
+    font-size: 25px;
+    height: 30px;
+    width: 70px;
+    
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#questions {
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin : 20px auto;
+    height: 50px;
+    width: 550px;
+}
+button.option {
+    width: 650px;
+    height: 70px;
+    margin: 1px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #08065c;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+#next {
+    width: 100px;
+    height: 40px;
+    margin: 0 auto;
+    background-color: #03022d;
+    color: white;
+    border-radius: 7px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    min-height: 100vh;
+    background: linear-gradient(to right, #11245b, #2c95e1);
+    color: white;
+}
+
+button.option {
+    justify-content: space-between;
+    margin: 10px auto;
+}
+button.option:disable { color: white; cursor: default }
+
+button.option.correct { background-color: #1e9e4a; }
+button.option.correct { background-color: #d93a3a; }
+.icon { font-size: 26px; font-weight: bold }
+
+#hintText {
+    position: absolute;
+    left: 0; right: 0;
+    font-size: 16px;
+    color: #f6f931;
+}
+.hidden { display: none; }
+
+#result { text-align: center; margin-top: 150px; }
+#result h2 { font-size: 40px; }
+#result p { font-size: 28px; margin: 15px 0; }
+#restart {
+    padding: 10px 25px;
+    font-size: 20px;
+    background-color: #041742;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+div.card { height: auto; min-height: 250px; }
+#questions { height: auto; min-height: 50px; }
+button.optiob { height: auto; min-height: 70px; text-align: left; }

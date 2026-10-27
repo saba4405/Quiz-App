@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(to right, #11245b, #2c95e1);
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+    color: #041742;
+}
+#instructions {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+#nameLabel {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+#typeName {
+    text-align: center;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+#startQuiz {
+    display: block;
+    margin: 100px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #041742;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#by {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+
+
+
