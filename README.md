@@ -2,11 +2,12 @@
 
 A timed quiz app that tests your knowledge of HTML, CSS and JavaScript interview questions. Enter your name, answer 10 questions, and see your score at the end.
 
-🔗 **Live Demo:** [PASTE YOUR LIVE LINK HERE]
-💻 **GitHub Repo:** [PASTE YOUR REPO LINK HERE]
+🔗 **Live Demo:** http://127.0.0.1:5500/index.html
+💻 **GitHub Repo:** https://github.com/saba4405/Quiz-App
 
 ![Quiz App Screenshot]
-<img width="335" height="305" alt="Screenshot 2026-10-12 153134" src="https://github.com/user-attachments/assets/277d5254-7b09-485f-806d-80e77f0f8557" />
+<img width="1341" height="908" alt="Screenshot 2026-10-27 142023" src="https://github.com/user-attachments/assets/589c9b62-be83-463b-bc16-dbbe6cec2e1b" />
+
 <img width="938" height="905" alt="Screenshot 2026-10-14 151631" src="https://github.com/user-attachments/assets/cc9904d9-7044-4fee-adde-4b6cc3418e48" />
 
 ## ✨ Features
