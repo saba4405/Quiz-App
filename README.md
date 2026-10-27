@@ -6,9 +6,8 @@ A timed quiz app that tests your knowledge of HTML, CSS and JavaScript interview
 💻 **GitHub Repo:** https://github.com/saba4405/Quiz-App
 
 ![Quiz App Screenshot]
-<img width="1341" height="908" alt="Screenshot 2026-10-27 142023" src="https://github.com/user-attachments/assets/589c9b62-be83-463b-bc16-dbbe6cec2e1b" />
-
 <img width="938" height="905" alt="Screenshot 2026-10-14 151631" src="https://github.com/user-attachments/assets/cc9904d9-7044-4fee-adde-4b6cc3418e48" />
+<img width="1341" height="908" alt="Screenshot 2026-10-27 142023" src="https://github.com/user-attachments/assets/589c9b62-be83-463b-bc16-dbbe6cec2e1b" />
 
 ## ✨ Features
 
